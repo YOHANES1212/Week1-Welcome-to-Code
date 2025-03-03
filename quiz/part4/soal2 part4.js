@@ -17,7 +17,7 @@ console.log('')
 let num1 = 1;
 let num2 = 2;
 function calculateMultiply() {
-  // ini menggunakan luar scope function
+  // ini menggunakan luar scope function atau global
   console.log(num1 + num2);
 }
 
